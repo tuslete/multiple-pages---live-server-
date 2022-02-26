@@ -3,14 +3,13 @@ body {
 }
 
 h1,
-p {
-  text-align: center;
-}
-
-.link {
+p,
+footer {
   text-align: center;
 }
 
 .croissant {
-  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  margin: 30px auto;
 }
