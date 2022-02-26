@@ -2,6 +2,15 @@ body {
   background: #e778bd;
 }
 
-h1 {
+h1,
+p {
   text-align: center;
+}
+
+.link {
+  text-align: center;
+}
+
+.croissant {
+  margin: 0 auto;
 }
